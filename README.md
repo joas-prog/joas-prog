@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Joaquín! 👋
 
-<!--
-**joas-prog/joas-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science Student at Universidad Técnica Federico Santa María.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Data Science student interested in
+Machine Learning, Data Analytics and Artificial Intelligence.
+
+Currently learning:
+- Python
+- SQL
+- Machine Learning
+- Apache Spark
+- Docker
+
+## Technologies
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- SQL
+- MongoDB
+- Power BI
+
+## Featured Projects
+
+- [Exploratory Data Analysis](LINK_TO_PROJECT)
+- [Machine Learning Prediction](LINK_TO_PROJECT)
+
+## Contact
+
+- LinkedIn: YOUR_LINKEDIN_URL
